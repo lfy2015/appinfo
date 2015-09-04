@@ -1,0 +1,2 @@
+# appinfo
+pyapp.info
